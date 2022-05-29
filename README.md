@@ -1,2 +1,2 @@
-# Leetcode
-A respository for my leetcode submissions
+# Leetcode and AlgoExpoert
+A respository for my leetcode / algoexpert submissions
